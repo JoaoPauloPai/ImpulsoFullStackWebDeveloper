@@ -10,7 +10,7 @@ duração 2 Hs
 
 instrutora
 
-Juliana Mascarenhas
+## Juliana Mascarenhas
 
 --------------------------
 Módulo 2
@@ -20,4 +20,14 @@ duração 4 Hs
 
 Instrutor
 
-Denilson Bonatti
+## Denilson Bonatti
+
+--------------------------
+Módulo 3
+
+duração 5 Hs
+# Introdução ao GitHub
+
+Instrutor
+
+## Otávio Reis 
