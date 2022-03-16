@@ -31,3 +31,13 @@ duração 5 Hs
 Instrutor
 
 ## Otávio Reis 
+
+--------------------------
+Módulo 4
+
+duração 2 Hs
+# Projetos Ágeis com Scrum
+
+Instrutor
+
+## Thiago Sano 
